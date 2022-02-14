@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Samuel Duque",
+      "empresa": "Duque, C.A",
+      "email": "Samuelduque@gmail.com",
+      "movil": "321321321654",
+      "notas": "Bien bien",
+      "id": 1
+    }
+  ]
+}
